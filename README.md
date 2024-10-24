@@ -1,1 +1,1 @@
-# CNL
+Computer Networks Lab Assignments
